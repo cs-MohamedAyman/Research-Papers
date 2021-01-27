@@ -1,2 +1,2 @@
 # Research-Papers
-Research papers in Artificial Intelligence field.
+Research papers in the Artificial Intelligence field.
