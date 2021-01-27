@@ -1,2 +1,2 @@
 # Research-Papers
-Research papers in the deep learning field.
+Research papers in the Artificial Intelligence field.
