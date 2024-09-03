@@ -39,13 +39,3 @@ Research Papers for computer science researchers.
 <br>
 
 ## [`IEEE Xplore`](/ieee-xplore/README.md)
-
-<a href="/openai/README.md"><img align="right" width="80" src="/logos/openai.png"></img></a>
-<br>
-
-## [`OpenAI`](/openai/README.md)
-
-<a href="/mlflow/README.md"><img align="right" width="80" src="/logos/mlflow.png"></img></a>
-<br>
-
-## [`MLflow`](/mlflow/README.md)
