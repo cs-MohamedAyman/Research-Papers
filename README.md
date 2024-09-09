@@ -3,6 +3,15 @@
 # Research Papers
 Research Papers for computer science researchers.
 
+<table>
+    <tbody>
+<tr>
+<td align="center" width="10%"><a href="https://forms.gle/3rRZLvBtCusJZd6k9"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/announcement.png" width="100%"></img></a></td>
+<td align="center" width="90%"><h3>Are you looking for a 6-week individual mentorship program? <a href="https://forms.gle/3rRZLvBtCusJZd6k9">fill an application</a></h3><br></td>
+</tr>
+    </tbody>
+</table>
+
 <br><br><br>
 
 <a href="/google-scholar/README.md"><img align="right" width="80" src="/logos/google-scholar.png"></img></a>
