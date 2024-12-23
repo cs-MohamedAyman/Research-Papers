@@ -1,7 +1,7 @@
-<a href="/README.md"><img align="right" width="160" src="logos/research-papers.png"></img></a>
+<a href="/README.md"><img align="right" width="160" src="logos/research-paper-reviews.png"></img></a>
 
-# Research Papers
-Research Papers for computer science researchers.
+# Research Paper Reviews
+Research Paper Reviews for computer science researchers.
 
 <br><br><br>
 
